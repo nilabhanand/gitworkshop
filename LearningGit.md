@@ -1,4 +1,4 @@
-## Test workshop
+## The 8 Git Commands
 
 1. cd into your github folder using command line 
 2. git clone
